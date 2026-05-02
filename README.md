@@ -67,11 +67,9 @@ download-zip: URL1 URL2 URL3
 ```
 
 **Examples:**
-
+download-zip: https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.7.apk
 ```
 download-zip: https://example.com/file.zip
-```
-
 ```
 download-zip: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
 ```
